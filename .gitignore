@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Data files (do not commit competition data unless permitted)
+data/
+train.csv
+test.csv
+sample_submission.csv
+
+# Generated artifacts
+submission.csv
+*.joblib
+*.pkl
